@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa" 
-       width="100%" 
-       height="180px" 
-       style="object-fit: cover;" />
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Subhra%20Nayak&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Subhra%20Bikiran%20Nayak&fontSize=40&fontColor=ffffff" />
 </p>
 
 <p align="center">
