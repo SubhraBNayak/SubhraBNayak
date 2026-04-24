@@ -1,3 +1,21 @@
+![banner](https://images.unsplash.com/photo-1446776811953-b23d57bd21aa)
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1446776811953-b23d57bd21aa" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1581090700227-1e8d3f2c9c9d" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Subhra%20Nayak&fontSize=40&fontColor=ffffff" />
+</p>
+
 <h1 align="center">Subhra Nayak</h1>
 
 <p align="center">
