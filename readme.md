@@ -1,4 +1,4 @@
-<p align="center" width="50px">
+<p align="center" width="10px">
   <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa" width="100%" />
 </p>
 
