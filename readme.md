@@ -1,89 +1,77 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Subhra%20Bikiran%20Nayak&fontSize=40&fontColor=ffffff" />
-</p>
+# Subhra Bikiran Nayak
 
-<p align="center">
-Backend Engineering • Distributed Systems
-</p>
+**Backend Engineer · Distributed Systems · Systems Design**
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6366F1&center=true&vCenter=true&width=420&lines=Designing+Scalable+Backends;Learning+Distributed+Systems;Building+for+Reliability" />
-</p>
+I build backend systems and explore the engineering behind reliable, scalable software.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SubhraBNayak&color=6366f1&style=flat-square" />
-</p>
+My primary interests lie in backend architecture, data-intensive applications, distributed systems, and the infrastructure that keeps services running under load.
+
+Currently workiffng with **Node.js and Python**, while exploring **Go, concurrency, event-driven architectures, and distributed systems**.
+
+[GitHub](https://github.com/SubhraBNayak) · [LinkedIn](https://www.linkedin.com/) · [Email](mailto\:your-email@gmail.com)
 
 ---
 
-## Profile
+### `01 / TECHNICAL TOOLKIT`
 
-Focused on backend engineering with an emphasis on system design, scalability, and reliability.
+**Languages**
 
-Currently building with Node.js and Python while working toward a deeper understanding of distributed systems — especially how systems behave under load, failure, and concurrency.
+`JavaScript` `TypeScript` `Python` `Go` `C` `C++` `Java`
 
-This is not about building features.  
-This is about building systems that hold.
+**Backend Engineering**
 
----
+`Node.js` `Express` `Django` `FastAPI` `REST APIs` `WebSockets`
 
-## Stack
+**Databases & Data Systems**
 
-**Languages**  
-C / C++ • Java • Python • JavaScript  
+`PostgreSQL` `MongoDB` `Redis` `SQLite` `Oracle`
 
-**Backend**  
-Node.js • Express • FastAPI  
+**Infrastructure & Distributed Systems**
 
-**Data Layer**  
-PostgreSQL • MongoDB • Supabase • Oracle DB  
+`Docker` `Docker Compose` `Kafka` `RabbitMQ` `gRPC` `Linux`
 
-**Auth & Security**  
-JWT • Bcrypt  
+**Frontend**
 
-**Frontend (supporting)**  
-React • Tailwind CSS  
+`React` `Tailwind CSS`
 
 ---
 
-## Current Focus
+### `02 / CURRENT INTERESTS`
 
-
----
-
-## Engineering Approach
-
-- Prefer clarity over abstraction  
-- Build from fundamentals upward  
-- Optimize for correctness before scale  
-- Understand behavior, not just implementation  
+- Distributed systems, concurrency and fault tolerance
+- Database internals, indexing and query optimization
+- Event-driven architecture and asynchronous processing
+- Caching, message brokers and stream processing
+- API design, scalability and system reliability
+- Container orchestration and cloud infrastructure
 
 ---
 
-## Activity
+### `03 / ENGINEERING PRINCIPLES`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SubhraBNayak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhraBNayak&theme=tokyonight&hide_border=true&background=00000000" height="160"/>
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+```text
+Understand the problem before choosing the technology.
+Correctness before optimization.
+Explicit trade-offs over unnecessary abstraction.
+Design for failure, not just the happy path.
+Measure performance instead of guessing.
+```
 
 ---
 
-## Contact
+### `04 / GITHUB ACTIVITY`
 
-<p align="center">
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
+\<p align="center">
+&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=SubhraBNayak&show_icons=true&hide_border=true&theme=transparent&rank_icon=github](https://github-readme-stats.vercel.app/api?username=SubhraBNayak\&show_icons=true\&hide_border=true\&theme=transparent\&rank_icon=github)" height="165" />
+&#x20; \<img src="[https://github-readme-streak-stats.herokuapp.com/?user=SubhraBNayak&hide_border=true&theme=transparent](https://github-readme-streak-stats.herokuapp.com/?user=SubhraBNayak\&hide_border=true\&theme=transparent)" height="165" />
+\</p>
+
+\<p align="center">
+&#x20; \<img src="[https://github-readme-activity-graph.vercel.app/graph?username=SubhraBNayak&theme=github-compact&hide_border=true&area=true](https://github-readme-activity-graph.vercel.app/graph?username=SubhraBNayak\&theme=github-compact\&hide_border=true\&area=true)" width="100%" />
+\</p>
+
+---
+
+\<p align="center">
+&#x20; \<sub>Build with intent. Understand the system. Make it reliable.\</sub>
+\</p>
