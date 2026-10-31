@@ -11,10 +11,10 @@
 <a href="https://github.com/SubhraBNayak">
 <img src="https://img.shields.io/badge/GITHUB-080B0A?style=for-the-badge&logo=github&logoColor=A3E635"/>
 </a>
-<a href="https://www.linkedin.com/">
+<a href="www.linkedin.com/in/subhra-bikiran-nayak-438807288">
 <img src="https://img.shields.io/badge/LINKEDIN-080B0A?style=for-the-badge&logo=linkedin&logoColor=A3E635"/>
 </a>
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:subhrabikiran@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-080B0A?style=for-the-badge&logo=gmail&logoColor=A3E635"/>
 </a>
 
